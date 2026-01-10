@@ -9,8 +9,8 @@ on:
   workflow_dispatch:
 
 env:
-  BACKEND_IMAGE: namburisai/backend
-  FRONTEND_IMAGE: namburisai/frontend
+  BACKEND_IMAGE: pavankalyan05/backend
+  FRONTEND_IMAGE: pavankalyan05/frontend
   IMAGE_TAG: latest
 
 jobs:
