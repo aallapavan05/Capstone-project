@@ -127,6 +127,10 @@ PostgreSQL is used as the relational database management system for this project
 
 Each component of the application—frontend, backend, and database—runs inside a separate Docker container. This container-based architecture provides strong isolation between services, ensuring that issues in one component do not directly impact others. It also improves scalability and flexibility, as individual services can be updated, restarted, or scaled independently. Docker containers make the application portable and platform-independent, allowing it to run consistently on any system that supports Docker.
 
+<img width="1797" height="944" alt="Screenshot 2026-01-12 140353" src="https://github.com/user-attachments/assets/e08680a5-1684-45db-bd1d-5e3385c42285" />
+
+
+
 Dockerization of the Application
 
 Both the frontend and backend applications are fully containerized using Docker. Dockerization packages the application code, dependencies, and runtime environment into lightweight and reusable images. This eliminates environment-related issues and ensures that the application behaves consistently across development, CI/CD pipelines, and staging environments.
