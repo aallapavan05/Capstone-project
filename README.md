@@ -6,6 +6,14 @@ The application is deployed through a staging environment, ensuring that changes
 
 This project demonstrates real-world DevOps practices such as containerization, automation, security scanning, and environment-based deployment.
 
+                            live demo video for overall project
+ 
+
+https://github.com/user-attachments/assets/2513c6df-5ce4-4ca6-afc8-b626d32e8c81
+
+
+
+
 Application Architecture
 
 The application follows a 2-tier architecture:
